@@ -1,0 +1,21 @@
+{ "name": "scripting-cookbook-pmb",
+  "version": "0.1.0",
+  "description": "A collection of code snippets for which I couln't find a better home.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/scripting-cookbook-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/scripting-cookbook-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/scripting-cookbook-pmb/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "WTFPL",
+
+
+  "engines": { "bash": ">=4.0.0" }
+}
