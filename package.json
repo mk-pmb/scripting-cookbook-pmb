@@ -16,6 +16,11 @@
 
   "private": true, "license": "WTFPL",
 
+  "scripts": {
+    "test": "./test/all.sh"
+  },
+
+
 
   "engines": { "bash": ">=4.0.0" }
 }
