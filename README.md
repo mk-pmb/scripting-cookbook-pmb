@@ -29,6 +29,11 @@ That snippet should have some centralized homepage.
 But giving it its own repo would be overkill.
 I should start some kind of snippet collection.
 
+(Update 2024-08-22: After adding some tests for that snippet and a proper
+CI infrastructure for this repo, I discovered that the snippet was buggy,
+and also overly complicated. The new version is too trivial to upload.)
+
+
 
 
 
